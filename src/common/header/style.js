@@ -81,9 +81,25 @@ export const Button = styled.div`
   font-size: 14px;
   &.reg {
     color: #ec6149;
+    cursor: pointer;
   }
   &.write {
     color: #fff;
     background: #ec6149;
+    cursor: pointer;
+  }
+`
+export const SearchWrapper = styled.div`
+  float: left;
+  position: relative;
+  .iconfont { 
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    line-height: 30px;
+    text-align: center;
   }
 `
