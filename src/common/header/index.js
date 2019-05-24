@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import { connect } from 'react-redux';
+import {Link} from 'react-router-dom'
 import {CSSTransition} from 'react-transition-group'
 import  {actionCreators} from './store'
 import {HeaderWrapper, Logo,Nav,SearchInfoList,SearchInfo,SearchInfoItem,SearchInfoSwitch,SearchInfoTitle, NavItem,NavSearch,Addition,Button,SearchWrapper} from './style'
@@ -42,7 +43,9 @@ class Header extends Component {
     const { focused, handleInputFocus, handleInputBlur, list } = this.props
     return (
       <HeaderWrapper>
-        <Logo/>
+        <Link to='/'>
+          <Logo/>
+        </Link>
         <Nav>
           <NavItem className="left active">首页</NavItem>
           <NavItem className="left">下载APP</NavItem>
@@ -93,7 +96,6 @@ const mapStateToProps = (state) => {
 const mapDispatchToProps = (dispatch) => {
   return {
     handleInputFocus(list) {
-      console.log(list)
       if(list.size === 0) {
         dispatch(actionCreators.getList())
       }

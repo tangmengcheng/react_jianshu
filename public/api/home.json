@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "data": {
+    "topList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "https://upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+    }, {
+      "id": 2,
+      "title": "手绘",
+      "imgUrl": "https://upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/144/h/144/format/webp"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "阿里某员工面试华为后吐槽：面试官太水，反问几句都答不上来",
+      "desc": "一名阿里的员工面试华为云相关的岗位，面试完之后，其在互联网里面社区如此吐槽了一番：面试华为云后端开发的岗位，真的不晓得为啥面试官这么水，反问几句就不知道怎么回答了，好像姓李，估计1万行代码都没写过，阿里的同学慎入。言下之意，对于这名华为面试官的水平，这名阿里员工是不服气的，认为其不配做面试官.",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/17450582-df90aca790c7fb13?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 2,
+      "title": "数百位HR哄抢甲骨文前员工，但结果却大出所料！",
+      "desc": "前一阵，甲骨文裁员，进行N+6赔偿的消息，被称为史上最良心的裁员,甲骨文是一家很有趣的公司，势头强劲，却被公认为养老公司。风光无限，却也走上了裁员之路,但是，和其他公司裁员不同的是：这次被裁的员工还没走出甲骨文的大门，门口就已经蹲守了一大批等着抢人的大厂，包括BAT、华为、网易等八十余家企业，等着接盘这数百名被裁的甲骨文前员工,华为的HR，下手最快，把招聘的牌子放到了甲骨文公司的园区内。其他公司也不甘示弱，纷纷效仿.",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/15631385-b0e023b6d178980d?imageMogr2/auto-orient/strip%7CimageView2/2/w/640/format/webp"
+    },{
+      "id": 3,
+      "title": "刚刚！华为突然宣布：1797 亿！全世界为之震撼！",
+      "desc": "又是一个令人兴奋的时刻！谁说大象一定不能奔跑？今天，华为奔跑，其疾如风，让全世界为之震撼！刚刚，华为对外宣布：今 年一季度华为销售收入为 1797 亿元人民币，同比增长 39%，净利润率为 8%,不仅业绩快速增长，华为在5G上的优势，也继续巩固：截止到 3 月底，华为和全球各大运营商签订了 40 个 5G 商用合同，发出了 70000 多个 5G 基站.",
+      "imgUrl": "https://upload-images.jianshu.io/upload_images/15318146-01f033843559a848.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"
+    }],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ]
+  }
+}
